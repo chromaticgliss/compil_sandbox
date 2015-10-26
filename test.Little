@@ -1,0 +1,141 @@
+/**
+*	Program 3 test.Little
+*   Authors: Steven Hemmy and Maximiliano Guerrero
+*   CS login: hemmy and guerrero
+*/
+
+int x;
+int y;
+double z;
+double u;
+void what;
+void noooo;
+int intFunc2(int var1) {} 
+double doubleFunc2(double var1, int var2, void oddlyLegal) {}
+int intBodyFunc() {
+	int var1;
+	double dblVar;
+	void voidVar;
+}
+double dblBodyFunc() {
+	int var1;
+	double dblVar;
+	void voidVar;
+}
+void voidBodyFunc() {
+	int var1;
+	double dblVar;
+	void voidVar;
+}
+int intBodyFunc(int wat) {
+	int var1;
+	double dblVar;
+	void voidVar;
+}
+double dblBodyFunc(double canHazCheezburger, int noCanHazCheezburger) {
+	int var1;
+	double dblVar;
+	void voidVar;
+}
+void voidBodyFunc(void itIsHotInThisBuilding) {
+	int var1;
+	double dblVar;
+	void voidVar;
+}
+int expFunc(int wat) {
+	var1 = 1 + 2;
+	var2 = var1 - 3.2;
+	var3 = var1 * var2;
+	var3 = var2 / var1;
+	var3 = !"yellow";
+	var4 = var3 && 7;
+	var4 = var1 || var2;
+	var9 = 7 == var2;
+}
+double dblBodyFunc(double canHazCheezburger, int noCanHazCheezburger) {
+	var1 = "yellow" != "blue";
+	var2 = 2 < 500;
+	var3 = 100.0 > 1900;
+	var4 = 1500.5 <= "orange";
+	var5 = "gas" >= "burrito";
+	var6 = -"winter";
+}
+void voidBodyFunc(void itIsHotInThisBuilding) {
+	var1 = jello++;
+	var2 = pudding--;
+	var3 = (100 - 200) && ("bucky" >= "buckeye");
+	var4 = superLameFunction();
+	var5 = dblBodyFunc(var1+12,"hello");
+}
+int whyIsntThisDoneYet(int someoneTurnUpTheAC){
+	int hotdogs;
+	double brats;
+	void hotpockets;
+	++weiners;
+	--oscarMayer;
+	banana++;
+	pBnJ--;
+	scanf("%d",&cornDog);
+	scanf("%f",&iceCreamSammich);
+	printf("%d",(brats+bananas/maplesyrup));
+	printf("%f",crepes || pancakes);
+	printf("shallots are okay");
+	if ( "sad" || "lonely" ) {}
+	if ( "hungry" || "ravenous") {
+		int qDoba;
+		double fajitaBurrito;
+		void tip;
+	}
+	if ( "angry" || "annoyed" ) {
+		var1 = "i wish i could just chill on a sunday";
+		var1 = napTime();
+	}
+	if ( "party" || "rock" ) {
+		int jelloShots;
+		double irishCarBomb;
+		jelloShots = "true, that";
+		dance = shuffleEveryDay();
+	}
+	return "to bed";
+}
+
+void anotherFunctionBecauseWhyNot() {
+	if ( "sad" || "lonely" ) {} else {}
+	if ( "hungry" || "ravenous") {
+		int qDoba;
+		double fajitaBurrito;
+		void tip;
+	} else {
+		var1 = "i wish i could just chill on a sunday";
+		var1 = napTime();
+	}
+	if ( "angry" || "annoyed" ) {
+		var1 = "i wish i could just chill on a sunday";
+		var1 = napTime();
+	} else {
+		int qDoba;
+		double fajitaBurrito;
+		void tip;
+	}
+	if ( "party" || "rock" ) {
+		int jelloShots;
+		double irishCarBomb;
+		jelloShots = "true, that";
+		dance = shuffleEveryDay();
+	} else {
+		int imTired;
+		void thingsToDo;
+		imTired = (laziness >= energy) || willingnessToWork;
+		thingToDo = napTime(0,2);
+	}
+	while("forever" == "forever") {
+		void forever;
+		forever = "alone";
+	}
+	return;
+}
+double pointlessFunction() {
+	pointlessFunction();
+	return pointlessFunction();
+}
+
